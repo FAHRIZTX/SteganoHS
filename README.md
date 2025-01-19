@@ -34,6 +34,6 @@ Run file dengan nama "HistogramShifting.m" pada MATLAB.
 
 ### Contributors 🤝
 
-<a href="https://github.com/dokploy/dokploy/graphs/contributors">
+<a href="https://github.com/FAHRIZTX/SteganoHS/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=FAHRIZTX/SteganoHS" />
 </a>
