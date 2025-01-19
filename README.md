@@ -31,3 +31,9 @@ Run file dengan nama "HistogramShifting.m" pada MATLAB.
     <td colspan="3"><img src="https://github.com/user-attachments/assets/666663d1-7259-4aeb-871f-c6b3d7e8b1ba"></td>
   </tr>
 </table>
+
+### Contributors 🤝
+
+<a href="https://github.com/dokploy/dokploy/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAHRIZTX/SteganoHS" />
+</a>
